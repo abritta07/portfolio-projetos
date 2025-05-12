@@ -1,0 +1,13 @@
+/meus-projetos
+│
+├── README.md
+├── academic/
+│   ├── projeto-engenhariadesoftware/
+│   └── introducao-computacao/
+│
+├── pessoais/
+│   ├── app-financas-pessoais-eng/
+│   └── pythom-logica/
+│
+└── certificados/
+    └── README.md
